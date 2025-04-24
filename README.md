@@ -1,7 +1,7 @@
-Hi 👋 My name is Mihai Pop
+Hi 👋 My name is Mihai
 ==========================
 
-Fullstack developer
+Fullstack developer @ Tech Stack Apps
 -------------------
 
 Developing innovative mobile, web, and IoT healthcare applications aimed at improving patient care and simplifying healthcare workflows. Focused on creating meaningful solutions that blend technology with compassion to positively impact lives.
@@ -9,7 +9,7 @@ Developing innovative mobile, web, and IoT healthcare applications aimed at impr
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [Tech Stack Apps](http://techstackapps.com/portofolio)
 * ✉️  You can contact me at [hello@techstackapps.com](mailto:hello@techstackapps.com)
-* 🤝  I'm open to collaborating on healthcare solutions
+* 🤝  I'm open to collaborating on Healthcare projects through Tech Stack Apps 
 
 ### Skills
 
