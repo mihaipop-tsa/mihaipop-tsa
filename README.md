@@ -1,15 +1,14 @@
 Hi 👋 My name is Mihai
 ==========================
 
-Fullstack developer @ Tech Stack Apps
+Fullstack developer @ Life Value
 -------------------
 
 Developing innovative mobile, web, and IoT healthcare applications aimed at improving patient care and simplifying healthcare workflows. Focused on creating meaningful solutions that blend technology with compassion to positively impact lives.
 
 * 🌍  I'm based in Europe
-* 🖥️  See my portfolio at [Tech Stack Apps](http://techstackapps.com/portofolio)
-* ✉️  You can contact me at [hello@techstackapps.com](mailto:hello@techstackapps.com)
-* 🤝  I'm open to collaborating on Healthcare projects through Tech Stack Apps 
+* ✉️  You can contact me at [hello@lifevalue.com](mailto:hello@lifevalue.com)
+* 🤝  I'm open to collaborating on Healthcare projects through Life Value 
 
 ### Skills
 
